@@ -1,8 +1,9 @@
 
 
 
-
-
+counter = document.querySelector('.counter')
+addCount = document.querySelector('#addCountButton')
+lowerCount = document.querySelector('#lowerCountBtn ')
 let count = 0;
 
 
